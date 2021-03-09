@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "una single page aplication para practicar lo aprendido en cursos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorsheepman/Singla_Aplication.git"
+  },
+  "author": "Victor Marquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorsheepman/Singla_Aplication/issues"
+  },
+  "homepage": "https://github.com/victorsheepman/Singla_Aplication#readme"
+}
